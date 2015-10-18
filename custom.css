@@ -1,0 +1,11 @@
+/* ## Title Area
+--------------------------------------------- */
+
+.title-area {
+    width: 200px;
+}
+
+.header-image .site-title > a {
+    background-position: bottom !important;
+    background-size: contain !important;
+}
